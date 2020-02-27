@@ -1,4 +1,4 @@
-
+## 获取浏览器指纹 - https://blog.csdn.net/jinsedeme0881/article/details/79064788?utm_source=blogxgwz9
 <p align="center">
   <a href="https://travis-ci.org/Valve/fingerprintjs2">
     <img src="https://img.shields.io/travis/Valve/fingerprintjs2.svg?style=flat-square" alt="build status">
